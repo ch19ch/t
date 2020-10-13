@@ -1,4 +1,4 @@
-
+湖北地方，#genre#
 湖北综合,http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
 湖北公共新闻,http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
 湖北影视,http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
